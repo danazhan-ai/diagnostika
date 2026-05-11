@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+import React, { useState, useRef, useEffect } from 'react';
 
 // ── Telegram ──────────────────────────────────────────────────────────────────
 const TG = "8782993976:AAEyGkn11Fqd4G2ym8G-XiGy9QhTYJ4DF5I";
